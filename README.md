@@ -1,6 +1,8 @@
 
 # 安装配置
 
+# 常用：在bin文件夹下找到mongod.exe命令，然后通过管理员执行mongod --dbpath x路径x，路径可以是任何地方
+
 ## Win
 
 在`Mongodb`官网下载最新版本的[Mongodb下载地址](https://cloud.mongodb.com/)
