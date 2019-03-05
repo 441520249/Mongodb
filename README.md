@@ -28,7 +28,7 @@ sudo mv mongodb-osx-x86_64-x.x.x mongodb
 
 安装完成后，我们可以把MongoDB的二进制命令文件目录（安装目录/bin）添加到PATH路径中
 
-```
+``` 
 export PATH=/usr/local/mongodb/bin:$PATH
 ```
 如果是从Github或者官网下载的，要先把它文件夹改名为`mongodb`，然后放到`/usr/local`目录下，然后再运行上面那一句命令，把`bin`目录添加到PATH路径中
